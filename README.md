@@ -33,8 +33,7 @@ The dashboard helps HR professionals analyze employee data, monitor workforce tr
 ---
 
 ## Dashboard Preview
-
-(Add your dashboard screenshot here)
+![Dashboard](Dashboard.png)
 
 ---
 
